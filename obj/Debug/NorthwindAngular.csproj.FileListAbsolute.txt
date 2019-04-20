@@ -1,0 +1,292 @@
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\NorthwindAngular.dll.config
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\NorthwindAngular.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\NorthwindAngular.pdb
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\csc.exe
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\csc.exe.config
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\csc.rsp
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\csi.exe
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\csi.exe.config
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\csi.rsp
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.AppContext.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Console.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.Compression.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.Pipes.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Claims.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.ValueTuple.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\vbc.exe
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\vbc.exe.config
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\vbc.rsp
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\VBCSCompiler.exe
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\EntityFramework.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\EntityFramework.SqlServer.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\System.Web.Helpers.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\System.Web.Mvc.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\System.Web.Razor.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Razor.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\EntityFramework.xml
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\EntityFramework.SqlServer.xml
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\System.Web.Razor.xml
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.xml
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Razor.xml
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\System.Web.Helpers.xml
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\System.Web.Mvc.xml
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.csprojAssemblyReference.cache
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.csproj.CoreCompileInputs.cache
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.csproj.CopyComplete
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.dll
+C:\Users\iau\source\repos\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.pdb
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\NorthwindAngular.dll.config
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\NorthwindAngular.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\NorthwindAngular.pdb
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\csc.exe
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\csc.exe.config
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\csc.rsp
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\csi.exe
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\csi.exe.config
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\csi.rsp
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.AppContext.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Console.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.Compression.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.Pipes.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Claims.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.ValueTuple.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\vbc.exe
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\vbc.exe.config
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\vbc.rsp
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\VBCSCompiler.exe
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\EntityFramework.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\EntityFramework.SqlServer.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\System.Web.Helpers.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\System.Web.Mvc.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\System.Web.Razor.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Razor.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\EntityFramework.xml
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\EntityFramework.SqlServer.xml
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\System.Web.Razor.xml
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.xml
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Razor.xml
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\System.Web.Helpers.xml
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\System.Web.Mvc.xml
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.csproj.CopyComplete
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.dll
+C:\Users\iau\Desktop\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.pdb
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\NorthwindAngular.dll.config
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\NorthwindAngular.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\NorthwindAngular.pdb
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\csc.exe
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\csc.exe.config
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\csc.rsp
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\csi.exe
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\csi.exe.config
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\csi.rsp
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.Managed.Core.targets
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.AppContext.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Collections.Immutable.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Console.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.Compression.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.FileSystem.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.Pipes.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Reflection.Metadata.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.AccessControl.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Claims.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Principal.Windows.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.ValueTuple.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.XmlDocument.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.XPath.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\vbc.exe
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\vbc.exe.config
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\vbc.rsp
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\VBCSCompiler.exe
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\VBCSCompiler.exe.config
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\EntityFramework.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\EntityFramework.SqlServer.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\Microsoft.Web.Infrastructure.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Helpers.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Mvc.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Razor.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Deployment.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Razor.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\EntityFramework.xml
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\EntityFramework.SqlServer.xml
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Razor.xml
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.xml
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Deployment.xml
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Razor.xml
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Helpers.xml
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Mvc.xml
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.csprojAssemblyReference.cache
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.csproj.CoreCompileInputs.cache
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.csproj.CopyComplete
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.dll
+E:\4.Ay(WepApi)\6.Gün\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.pdb
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\NorthwindAngular.dll.config
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\NorthwindAngular.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\NorthwindAngular.pdb
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\csc.exe
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\csc.exe.config
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\csc.rsp
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\csi.exe
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\csi.exe.config
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\csi.rsp
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.AppContext.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Console.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Claims.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\vbc.exe
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\vbc.exe.config
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\vbc.rsp
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\EntityFramework.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\EntityFramework.SqlServer.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Helpers.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Mvc.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Razor.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Razor.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\EntityFramework.xml
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\EntityFramework.SqlServer.xml
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Razor.xml
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.xml
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Webpages.Razor.xml
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Helpers.xml
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\System.Web.Mvc.xml
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.csprojAssemblyReference.cache
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.csproj.CoreCompileInputs.cache
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.csproj.CopyComplete
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.dll
+C:\Users\Yasef\Desktop\Nitelikli bilişim\4.Ay(WepApi)\6-7.Gün\NorthwindAngular\NorthwindAngular\obj\Debug\NorthwindAngular.pdb

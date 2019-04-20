@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html ng-app="northwindApp">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="../Scripts/jquery-3.0.0.slim.min.js"></script>
+    <script src="../Scripts/popper.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+    <script src="../Scripts/angular.min.js"></script>
+    <script src="northwind-app.js"></script>
+</head>
+<body>
+    <p> {{Id}}</p>
+
+    <div ng-controller="productsController" class="container" style="margin-left:-5px;">
+        <div class="row">
+            <div class="col-md-8" ng-init="getAllProducts()">
+               
+                    <table class="table table-bordered  table table-hover table table-responsive">
+                        <thead>
+                            <tr>
+                                <th> Product ID</th>
+                                <th> Product Name </th>
+                                <th> Unit Price </th>
+                                <th> Unit In stock</th>
+                                <th> Quantity</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="p in pList">
+                                <td> {{p.ProductID}}   </td>
+                                <td ng-mouseover="getProduct(p.ProductID)"> <a href="">{{p.ProductName}} </a>   </td>
+                                <td> {{p.UnitPrice}}</td>
+                                <td> {{p.UnitsInStock}}   </td>
+                                <td> {{p.QuantityPerUnit}}   </td>
+                            </tr>
+                        </tbody>
+
+                    </table>
+
+                </div>
+                <div class="col-md-4" ng-if="detShow == true" >
+
+                    <form style=" position: fixed; ">
+                        {{Msg}}
+                        <h2>Ürün Detayları</h2>
+
+                        <div class="form-group">
+                            <label> Product Name :</label>
+                            <input class="form-control" type="text" ng-model="product.ProductName" />
+                            <label> Unit Price :</label>
+                            <input class="form-control" type="text" ng-model="product.UnitPrice" />
+                            <label> Category : </label>
+                            <select class="form-control" ng-model="product.CategoryID" ng-options="c.CategoryID as c.CategoryName for c in cList" ng-change="product.CategoryID"></select>
+                            <br />
+                            <label> Supplier : </label>
+                            <select class="form-control" ng-model="product.SupplierID" ng-options="s.SupplierID as s.CompanyName for s in sList" ng-change="product.SupplierID"></select>
+                            <input ng-click="UptProduct(product)" class="btn btn-info" type="button" value="Güncelle" />
+                            <input ng-click="CreateProduct(product)" class="btn btn-outline-success" type="button" value="Yeni Kayıt" />
+                            <input ng-click="DeleteProduct(product)" class="btn btn-warning" type="button" value="Sil" />
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+  
+</body>
+</html>
